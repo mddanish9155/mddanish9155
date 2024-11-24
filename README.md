@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Danish Khan</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
-<img align="right" alt ="coding" width="400" src="https://github.com/user-attachments/assets/8fbcc234-7d7e-405d-bf7a-089069041a64">
+<img align="right" alt ="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mddanish9155&label=Profile%20views&color=0e75b6&style=flat" alt="mddanish9155" /> </p>
 
