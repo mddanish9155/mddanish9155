@@ -1,4 +1,4 @@
-
+![logo](https://github.com/mddanish9155/mddanish9155/blob/main/Green%20Simple%20Manager%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Danish Khan</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
